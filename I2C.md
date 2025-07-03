@@ -10,7 +10,7 @@
 - 메모리(레지스터)의 주소를 지정함
 - 데이터(센서, etc..)등에서 읽기/쓰기 기능을 수행함
 
-
+![image](https://github.com/user-attachments/assets/a783e7a3-aad2-41d2-bc38-4ca6b8c332e0)
 
 첫번째 가닥은 SDA 선이다 
 
@@ -22,7 +22,7 @@
 
 → 시리얼 통신이 맞지 않아도 된다 (9600, 115,200)
 
-![image.png](attachment:818d7d28-ea6c-4d21-996c-23f2559f843f:image.png)
+![image](https://github.com/user-attachments/assets/0fa1f957-4c18-45ce-ab09-0b77b2db1f6d)
 
 SDA선에서 신호를 주어 통신을 START/STOP 할 수 있다.
 
