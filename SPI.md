@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/551b15b0-4ab7-4c16-8e90-1efe77998283)# Serial Peripheral Interface
+# Serial Peripheral Interface
 
 → I2C, UART와 같은 시리얼 통신(직렬 통신) 방식 중 한 가지로 MCU, 시프트 레지스터, SD 카드 등의 소형 주변 장치 사이에 데이터 전송을 관리
 
