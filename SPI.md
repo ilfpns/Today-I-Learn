@@ -10,7 +10,7 @@
 - 다수의 통신을 원한다면 다수만큼의 선이 필요하다
 - 동시 송수신이 가능하며 I2C보다 빠르다
 
-![image.png](attachment:373f1a55-96f9-47c7-b1a8-4124d15c1d2e:image.png)
+![image](https://github.com/user-attachments/assets/5ba194c9-b9bd-48c1-9611-03e21c2089bb)
 
 ## SPI의 4가지 신호
 
@@ -43,7 +43,7 @@
 
 ---
 
-![image.png](attachment:2dddaf16-8329-4a7e-b3de-4a1ba0723cb9:image.png)
+![image](https://github.com/user-attachments/assets/560a8b20-4479-4c24-a8bf-2a36e434cf65)
 
 SPI 장치들은 Shift Register를 가지고 있다
 
@@ -70,7 +70,7 @@ MSB부터 전송된다 → 왼쪽 부터 한 비트씩 천천히 보낸다
 
 Master → Slave 값을 보낼 때 1Clock 신호마다 1bit의 data가 이동된다
 
-![image.png](attachment:1c3550d6-8d0a-4251-b0b1-41f50174c18c:image.png)
+![image](https://github.com/user-attachments/assets/c0e2353b-2be9-474b-b39f-f6fa3c869267)
 
 이처럼 data는 밀어내기 식으로 들어간다
 
