@@ -1,7 +1,5 @@
 # ESP32
 
-ESP32
-
 ## uart_param_config()
 
 → 프토의 기본 통신 설정을 구성해주는 함수이다
