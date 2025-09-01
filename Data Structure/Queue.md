@@ -6,7 +6,8 @@
     
     →먼저 들어간 값이 먼저 나온다
     
-    ![image.png](attachment:73deff80-2b29-485c-ace9-9fa65a9f997b:image.png)
+   <img width="222" height="247" alt="image" src="https://github.com/user-attachments/assets/b40c2bbc-4c89-4506-a4b6-32a4f81790ea" />
+
     
 
 > 예를 들어?
