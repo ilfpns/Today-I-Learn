@@ -11,7 +11,7 @@
 - 중간부터 수정은 안됨
 - 스크롤 (scroll), 문서 편집기 등의 undo 연산, 방문 기록등에 사용된다
 
-<img width="871" height="268" alt="image" src="https://github.com/user-attachments/assets/4cf3a7f8-405b-4175-89a3-d3c6b3fd5f22" />
+<img width="941" height="272" alt="image" src="https://github.com/user-attachments/assets/9353dcbe-27fc-487c-af34-e38a7d63d1bb" />
 
 그림으로 표현하자면 이런 느낌이다
 
