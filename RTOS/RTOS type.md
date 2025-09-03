@@ -38,7 +38,7 @@
 
 ## H/W 초기화
 
-### <Firmware>
+### Firmware
 
 ```c
 void initializeHardware() {
@@ -48,7 +48,7 @@ void initializeHardware() {
 }
 ```
 
-### <RTOS>
+### RTOS
 
 ⇒ RTOS 는 일반적으로 보다 추상화된 레벨에서 하드웨어 초기화를 처리한다
 
@@ -60,7 +60,7 @@ void initializeHardware() {
 
 ## Task, Scheduling
 
-### <Firmware>
+### Firmware
 
 ```c
 void main() {
@@ -70,7 +70,7 @@ void main() {
 }
 ```
 
-### <RTOS>
+### RTOS
 
 ⇒ RTOS를 사용할 경우, 테스크를 정의하고 운영체제에게 스케쥴링을 맡긴다
 
@@ -99,7 +99,7 @@ int main() {
 
 ## Sync & Protocol
 
-### <Firmware>
+### Firmware
 
 ```c
 void main() {
@@ -114,7 +114,7 @@ void main() {
 }
 ```
 
-### <RTOS>
+### RTOS
 
 ⇒ RTOS는 세마포어, 뮤텍스, 메시지 큐와 같은 동기화 매커니즘을 제공하여 Task간의 안전한 데이터 공유와 통신을 관리한다
 
