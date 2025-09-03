@@ -37,7 +37,7 @@
 
 ### Kernel
 
-![image.png](attachment:dbb41e14-acb3-42c8-83a0-8722c1e50ebd:image.png)
+<img width="734" height="353" alt="image" src="https://github.com/user-attachments/assets/16080f20-e720-4439-94c3-d8259e6eccd1" />
 
 ⇒ 운영체제는 규모가 매우 큰 프로그램으로, 운영체제의 모든 프로그램을 메모리에 올려놓는 것은 배우 비효율적이다
 
