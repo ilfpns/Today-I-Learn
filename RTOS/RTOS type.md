@@ -32,7 +32,7 @@
 
 ⇒ 코딩 방식의 차이는 주로 H/W 초기화, Task 관리, 스케쥴링 및 동기화 매커니즘 등에서 나타난다
 
-![image.png](attachment:911f1361-e588-4eeb-a91b-139331005f76:image.png)
+<img width="949" height="507" alt="image" src="https://github.com/user-attachments/assets/c70a170a-bae7-42d6-a65b-2e70c30a3115" />
 
 ---
 
