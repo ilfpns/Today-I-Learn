@@ -1,7 +1,5 @@
 # RTOS 구성
 
----
-
 <img width="533" height="527" alt="image" src="https://github.com/user-attachments/assets/9bd4bfe2-d938-452a-88d8-5b6a4c62f0cc" />
 
 ⇒ RTOS는 커널 (Kernal), File system, NetWorking Protocols stack 특정 응용에 필요한 여러 가지 요소 등
