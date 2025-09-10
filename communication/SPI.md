@@ -99,3 +99,10 @@ Master → Slave 값을 보낼 때 1Clock 신호마다 1bit의 data가 이동된
 - RS-232, CAN 버스보다 비교적 더 짧은 거리에서 동작한다
 - 하나의 마스터 장치만 사용한다
 - Hot 플러그를 지원하지 않는다
+---
+
+### 연결 방식
+
+<img width="688" height="316" alt="image" src="https://github.com/user-attachments/assets/0a90f3a9-c267-4a6f-88db-2f3daec82e6f" />
+
+- Daisy chain은 보통 사용하지 않는다
