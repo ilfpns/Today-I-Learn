@@ -25,6 +25,19 @@
 ![image](https://github.com/user-attachments/assets/0fa1f957-4c18-45ce-ab09-0b77b2db1f6d)
 
 SDA선에서 신호를 주어 통신을 START/STOP 할 수 있다.
+---
+
+### SCL/SDA
+
+- SCL/SDA : 1 (HIGH)
+- SCL/SDA 통신이 시작된 후 : 클럭 라인보다 먼저 0 (LOW)로 변환
+- 통신 종료 : SCL → SDA 순서로 0에서 1로 변환
+
+### I2C slave
+
+⇒ I2C는 기본적으로 주소값으로 각 모듈을 구분하기에 (1 : N) 연결이 가능하다
+
+⇒ Slave 주소 값은 보통 7bits 값을 가진다 (이론상 127개의 Slave 연결 가능)
 
 ---
 
