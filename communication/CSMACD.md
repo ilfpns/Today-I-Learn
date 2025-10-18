@@ -12,7 +12,8 @@
 - 2대 이상의 컴퓨터가 동시에 데이터 통신을 송신을 시도할 경우 충돌이 일어납니다. 충돌이 일어날 경우 1시간 후에 재 시도가 이뤄진다.
 - 이 충돌을 방지하는 프로토콜 규약이 CSMA/CD이다
 
-v
+<img width="860" height="628" alt="image" src="https://github.com/user-attachments/assets/8afed4a1-0d3c-4764-a2ec-05580681a7d8" />
+
 **ㅤ**
 
 > **CSMA/CD**
