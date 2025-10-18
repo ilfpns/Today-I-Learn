@@ -3,7 +3,7 @@
 
 ---
 
-![image.png](attachment:03399893-f3df-40bf-a25c-eac9983eefc3:image.png)
+<img width="573" height="239" alt="image" src="https://github.com/user-attachments/assets/09d183fd-ca30-4c92-9eab-5e00f3699e48" />
 
 - 리액턴스란 : 교류전압이 인가되었을 때 인덕터, 커패시터가 전류 흐름을 방해하는 성질
     - 인덕터는 유도성 리액턴스(XL) 이라고 하고
@@ -31,7 +31,7 @@
 
 **ㅤ**
 
-![image.png](attachment:94a52739-e212-4b8c-8435-b20248a1402f:image.png)
+<img width="548" height="294" alt="image" src="https://github.com/user-attachments/assets/d8b84393-1f06-4b23-a06f-e04e451ee981" />
 
 - 다음은 임피던스, 리액턴스, 저항의 수식 과계이다
 
@@ -41,4 +41,4 @@ $$
 
 - 리액턴스X = 인덕터의 유도성 리액턴스 - 커패시터의 용량성 리액턴스
 
-![image.png](attachment:65fa44b1-3f6b-4f98-9f42-9a86e028998f:image.png)
+<img width="752" height="402" alt="image" src="https://github.com/user-attachments/assets/00592cfc-49a0-4fee-b374-21e40a0795c5" />
