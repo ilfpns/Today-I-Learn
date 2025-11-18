@@ -43,7 +43,7 @@
     2. 속성 : 해당 장치의 설정값
 - 확장자 : dts, dtsi
 
-![Uploading image.png…]()
+<img width="962" height="621" alt="image" src="https://github.com/user-attachments/assets/7561269e-ba83-4270-a64b-54ff799118a6" />
 
 - reg : 장치의 메모리 매핑 주소와 크기
 - interrupt : IRQ 번호와 플래그를 정의
